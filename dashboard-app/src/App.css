@@ -1,0 +1,16 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+.bar {
+  transition: fill 0.3s;
+}
+
+.bar:hover {
+  fill: #ff7f50;
+}
